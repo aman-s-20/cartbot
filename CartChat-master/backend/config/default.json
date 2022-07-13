@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://shreyavaidya2311:root@cluster0.obgls.mongodb.net/CartChat?retryWrites=true&w=majority",
+    "jwtSecretKey": "jwt123"
+}
